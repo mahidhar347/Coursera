@@ -17,9 +17,9 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 4
 * [Assignment description](./assignment4/Assignment-4.md)
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module_4/)
+* [Solution](https://mahidhar347.github.io/coursera/module_4/)
 
 ### Module 5
 * [Assignment description](./assignment5/Assignment-5.md)
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module_5/)
+* [Solution](https://mahidhar347.github.io/coursera/module_5/)
 
